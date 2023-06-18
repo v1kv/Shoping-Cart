@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/v1kv/Shoping-Cart.git/static/css/main.fe954693.css",
+    "main.js": "/v1kv/Shoping-Cart.git/static/js/main.5cf43a71.js",
+    "static/js/787.28f3f69d.chunk.js": "/v1kv/Shoping-Cart.git/static/js/787.28f3f69d.chunk.js",
+    "static/media/img.jpg": "/v1kv/Shoping-Cart.git/static/media/img.58471059178f007ab1b5.jpg",
+    "static/media/logo.svg": "/v1kv/Shoping-Cart.git/static/media/logo.4257575cd89b7bc3049783c82823af23.svg",
+    "index.html": "/v1kv/Shoping-Cart.git/index.html",
+    "static/media/empty_cart.svg": "/v1kv/Shoping-Cart.git/static/media/empty_cart.e8b3507a50e33c949fccc894120288fe.svg",
+    "static/media/cart.svg": "/v1kv/Shoping-Cart.git/static/media/cart.8648dde41ad39bc6e9f3834a37b47e1a.svg",
+    "static/media/close.svg": "/v1kv/Shoping-Cart.git/static/media/close.49f9eb202777daa06578bc1f46fc98e0.svg",
+    "static/media/favorites.svg": "/v1kv/Shoping-Cart.git/static/media/favorites.fa6849dde3f5f712656854b6210fd722.svg",
+    "main.fe954693.css.map": "/v1kv/Shoping-Cart.git/static/css/main.fe954693.css.map",
+    "main.5cf43a71.js.map": "/v1kv/Shoping-Cart.git/static/js/main.5cf43a71.js.map",
+    "787.28f3f69d.chunk.js.map": "/v1kv/Shoping-Cart.git/static/js/787.28f3f69d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe954693.css",
+    "static/js/main.5cf43a71.js"
+  ]
+}
