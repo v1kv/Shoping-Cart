@@ -1,0 +1,55 @@
+.header-top {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	box-sizing: border-box;
+	background-color: rgba(3,37,65, 1);
+
+	.btn-favorite,
+	.btn-cart {
+		display: flex;
+		align-items: center;
+
+		padding: 8px 18px;
+		font-size: 14px;
+		color: #fff;
+		fill: currentColor;
+
+		&:hover,
+		&:focus {
+			background-color: rgba(0,0,0,.12);
+		}
+	}
+
+	.header-icon {
+		position: relative;
+
+		.header-label {
+			font-size: 11px;
+			position: absolute;
+			top: 2px;
+			right: -2px;
+			height: 16px;
+			min-width: 16px;
+			background: #e91e63;
+			border-radius: 50%;
+			font-weight: 700;
+			line-height: 1.5;
+			box-sizing: border-box;
+			padding: 0 2px;
+			transform: translate(50%,-50%);
+			color: #fff;
+			text-align: center;
+		}
+	}
+
+	.icon-cart,
+	.icon-favorites {
+		width: 24px;
+		height: 24px;
+	}
+
+	.icon-favorites {
+		margin-right: 8px;
+	}
+}
